@@ -1,0 +1,6 @@
+[submodule "kindle"]
+	path = kindle
+	url = https://bitbucket.org/pproc/kindle-conversion-algorithm.git
+[submodule "subtitles"]
+	path = subtitles
+	url = https://bitbucket.org/pproc/subtitle-generator.git
