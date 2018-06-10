@@ -4,3 +4,6 @@
 [submodule "subtitles"]
 	path = subtitles
 	url = https://bitbucket.org/pproc/subtitle-generator.git
+[submodule "parser"]
+	path = parser
+	url = https://pproc@bitbucket.org/pproc/server-response-parser.git
